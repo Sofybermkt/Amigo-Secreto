@@ -1,5 +1,5 @@
 <h1> Amigo Secreto </h1>
-°Esta aplicación sirve para organizarte de una forma super divertida para jugar al amigo secreto.
+Esta aplicación sirve para organizarte de una forma super divertida para jugar al amigo secreto.
 <h2> Descripción </h2>
 Se deben agregar participantes, los usuarios deben agregar nombres de los supuestos amigos, asi al realizar el sorteo sale de forma aleatoria cada participante. Los resultados son claros y secillos.
 <h3> Tecnologías y características </h3>
